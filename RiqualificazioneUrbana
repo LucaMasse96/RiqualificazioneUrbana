@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Riqualificazione Urbana srl</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header, footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+        }
+        .background {
+            background-image: url('C:/Users/lucam/OneDrive/Desktop/Riqualificazione Urbana S.r.l/contesto cittadino.png');
+            background-size: cover;
+            background-position: center;
+            padding: 20px;
+            color: #fff;
+            text-align: center;
+        }
+        .background section {
+            background-color: rgba(0, 0, 0, 0.5); /* effetto trasparente */
+            padding: 20px;
+            margin: 20px;
+            border-radius: 8px;
+        }
+        h1, h2 {
+            color: #fff;
+        }
+        p {
+            color: #fff;
+        }
+        .btn-home {
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px 20px;
+            text-align: center;
+            display: inline-block;
+            font-size: 16px;
+            margin: 10px 0;
+            cursor: pointer;
+            border: none;
+            border-radius: 5px;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Riqualificazione Urbana srl</h1>
+    </header>
+    <div class="background">
+        <section>
+            <h2>Chi Siamo</h2>
+            <p>Siamo un'azienda dedicata alla valorizzazione delle proprietà immobiliari, specializzata nella ristrutturazione di vecchi negozi inutilizzati e nella creazione di cantine in zone residenziali prive di tali strutture.</p>
+            <h2>La Nostra Missione</h2>
+            <p>La nostra missione è di trasformare spazi trascurati in risorse preziose per la comunità, migliorando la qualità della vita dei residenti locali attraverso la creazione di cantine sicure e funzionali e il ripristino di negozi dismessi.</p>
+            <h2>Il Nostro Progetto</h2>
+            <p>Nel cuore del nostro progetto c'è l'idea di rivitalizzare il quartiere e di creare nuove opportunità per gli abitanti. Lavoriamo con passione per assicurare che ogni spazio ristrutturato sia di alta qualità e risponda alle esigenze della comunità.</p>
+            <h2>Contattaci</h2>
+            <p>Se hai domande o desideri saperne di più sui nostri servizi, non esitare a contattarci. Siamo sempre disponibili per discutere come possiamo aiutarti a migliorare il tuo spazio.</p>
+            <a class="btn-home" href="#">Home</a>
+        </section>
+    </div>
+    <footer>
+        <p>&copy; 2024 Riqualificazione Urbana srl. Tutti i diritti riservati.</p>
+    </footer>
+</body>
+</html>
